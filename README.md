@@ -4,8 +4,8 @@ A recommendation system is one of the applications of data science that is used 
 # Article Recommendation System
 There are many ways to create recommendation systems. To create an articles recommendation system, we need to focus on content rather than user interest. For example, if a user reads an article based on clustering, all recommended articles should also be based on clustering. So to recommend articles based on the content:
 
-1 we need to understand the content of the article
-2 match the content with all the other articles
-3 and recommend the most suitable articles for the article that the reader is already reading
+1. we need to understand the content of the article
+1. match the content with all the other articles
+1.  and recommend the most suitable articles for the article that the reader is already reading
 
 For this task, we can use the concept of cosine similarity in machine learning. Cosine similarity is a method of building recommendation systems based on the content. It is used to find similarities between two different pieces of text documents. So we can use cosine similarity to build an article recommendation system. In the section below, I will take you through how to build an article recommendation system with machine learning using Python.
